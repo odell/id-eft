@@ -14,3 +14,5 @@ L_ALPHA = (2*MU*C4)**0.5
 HBAR = 1.054572e-34 # J•s
 A0 = 5.291772e-11 # m
 ME = 9.109384e-31 # kg
+
+A0_MM = -65.0 # Mott-Massey scattering length (a.u.)
