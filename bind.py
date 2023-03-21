@@ -1,7 +1,7 @@
 '''
 Functions for computing binding energies.
 '''
-from pyexpat.errors import XML_ERROR_ATTRIBUTE_EXTERNAL_ENTITY_REF
+
 import numpy as np
 from scipy import optimize
 import scatter
